@@ -12,8 +12,7 @@ In this work, I have compared hosts based on several criteria and discovering in
 | Files/Folder| Description |
 | ------------- | ------------- |
 | **Data Folder** | This folder provides you a google drive link where you can find the Property Rental Dataset of two Canadian cities **TORONTO** and **VANCOUVER**. |
-| **All Key Points Folder** | This folder contains a PDF file of all the key points which I have to find out.|
-| **Excel Analysis Folder**  | This folder contains an Excel file where I have done different kinds of analysis and created different kinds of charts using the data which I have drawn from the database using SQL. |
+| **Excel Folder**  | This folder contains an Excel file where I have done different kinds of analysis and created different kinds of charts using the data which I have drawn from the database using SQL. |
 | **Presentation Folder**  | You can view all the insights I discovered after doing my task in a PDF file that is contained in this folder.  |
 | **SQL Query for Host Behavior Analysis file**  | You can find all the necessary queries in this file, along with all the information I retrieved from the database using SQL. |
 
