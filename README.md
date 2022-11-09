@@ -29,6 +29,19 @@ In this work, I have compared hosts based on several criteria and discovering in
     - Identity verification
     - Review scores 
     - Average number of bookings per month, etc.
+    - 
+## :page_with_curl:Database schema
+
+For More Information on Database Schema :  [ Click Here ](https://docs.google.com/spreadsheets/d/1TwB7Rho6iG_yEVEQuH0i200iPCVwVSHg/edit?usp=sharing&ouid=105757847331519969179&rtpof=true&sd=true)
+
+<p align="center"><img src="https://user-images.githubusercontent.com/79499162/182786244-11dd6893-63c6-4ee4-baeb-350cb7d02fd7.png" width="550" height="350"></p>
+
+
+<br>
+
+## <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Google Drive Link :
+
+- All the necessary data in one folder: [Click here](https://drive.google.com/drive/folders/1Iv5A09M8N011S4VIgDzCMX8QAl1aLlTV?usp=sharing)
 
 
 
